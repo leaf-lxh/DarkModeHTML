@@ -1,0 +1,18 @@
+.center-box{
+	display:flex;
+	width: 450px;
+	height: 200px;
+	border-radius: 5px;
+	border: 2px solid #dae0e6;
+	margin: auto;
+}
+
+#change-button{
+	margin: auto;
+	
+}
+
+body{
+	display:flex;
+	background-color: rgb(39, 38, 46);
+}

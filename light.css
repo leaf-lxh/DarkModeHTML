@@ -1,0 +1,17 @@
+.center-box{
+	display: flex;
+	width: 450px;
+	height: 200px;
+	border: 2px solid #0366d6;
+	border-radius: 5px;
+	margin: auto;
+}
+
+#change-button{
+	margin: auto;
+}
+
+body{
+	display:flex;
+	background-color: #FFFFFFFF;
+}
